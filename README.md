@@ -92,7 +92,7 @@ The optimal number of clusters was identified using:
    ```bash
    jupyter notebook
    ```
-4. Run all cells sequentially
+4. Run all sequentially
 
 ---
 
